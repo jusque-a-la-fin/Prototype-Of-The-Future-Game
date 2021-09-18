@@ -4,7 +4,7 @@ using UnityEngine;
 using System.Threading;
 using System;
 
-
+// Основной скрипт, отвечающий за разгон, торможение, повороты автомобиля
 public class CarMovement : MonoBehaviour
 {
     // Оси автомобиля

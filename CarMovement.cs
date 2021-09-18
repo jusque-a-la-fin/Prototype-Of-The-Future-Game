@@ -4,6 +4,7 @@ using UnityEngine;
 using System.Threading;
 using System;
 
+// Комментарии скоро будут переведены на английский
 // Основной скрипт, отвечающий за разгон, торможение, повороты автомобиля
 public class CarMovement : MonoBehaviour
 {

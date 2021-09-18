@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// This script implements working of turning lights of the car
+// This script implements working of the turning lights of the car
 public class TurningLights : MonoBehaviour
 {
     // Buttons(pointers) activating turning lights: backend 
